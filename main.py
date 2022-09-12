@@ -74,32 +74,4 @@ for n in range(100):
         except NoSuchElementException:
             sleep(2)
 
-
-
-
 driver.quit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
